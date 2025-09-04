@@ -45,7 +45,7 @@ Before running the crew, configure it to match your needs:
 
 1. **Set up your API key**
 
-   * Add your `OPENAI_API_KEY` to the `.env` file
+   * Add your `OPENAI_API_KEY` to the `.env` file (or whichever model, you wish to try)
 
 2. **Configure your crew**
 
